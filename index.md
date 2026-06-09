@@ -11,11 +11,11 @@ Welcome to my website!
 
 :::: {.columns}
 
-::: {.column width="35%"}
-![](assets/images/photo_small.jpeg){width="200px" style="border-radius: 2%; display: block; margin: 120px auto 0 auto;"}
+::: {.column width="45%"}
+![](assets/images/photo_small.jpeg){width="300px" style="border-radius: 2%; display: block; margin: 120px auto 0 auto;"}
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 <h2 style="margin-top: 0;">Welcome to my website!</h2>
 
 I am a **Postdoctoral Researcher** at the Geographical Data Science Lab at the **University of Liverpool** and the International Inequalities Institute at the **London School of Economics and Political Science**. My research explores the economic and distributional consequences of innovation, environmental shocks, and globalisation, using tools from applied microeconomics, data science, causal inference, and machine learning.
