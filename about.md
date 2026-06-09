@@ -27,21 +27,21 @@ permalink: /about/
 ## Professional Experience
 
 **Postdoctoral Researcher, Geographical Data Science Lab**  
-*University of Liverpool, UK* (July 2025 – Present)  
+*University of Liverpool, UK*  
 - Advancing the use of large-scale satellite data using machine learning in assessing climate-related and inequality risks.
 - Engaging with DEFRA and MHCLG to inform policy decision-making on flood risk and resilience.
 
 **Research Officer, International Inequalities Institute**  
-*London School of Economics and Political Science, UK* (Feb 2024 - Present)  
+*London School of Economics and Political Science, UK*  
 - Co-Director on Environmental Inequality.
 - Research on Comparative Political Economy, STICERD’s Cohesive Capitalism Research Programme.
 
 **Research Associate, Policy Evidence Unit for University Commercialisation and Innovation**  
-*University of Cambridge, UK* (July 2025 – January 2026)  
+*University of Cambridge, UK*  
 - Evaluated the UK’s first-ever national spinout register using the ONS Secure Research Service.
 
 **Consultant, Strategy, Policy and Partnerships Department**  
-*Asian Development Bank, Austria* (Feb - Nov 2020)  
+*Asian Development Bank, Austria*  
 
 ---
 
