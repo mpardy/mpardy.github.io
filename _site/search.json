@@ -1,38 +1,59 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "Martina Pardy\n\n\n\n\nWelcome to my website!\n\n\n\n\nI am a Postdoctoral Researcher at the Geographical Data Science Lab at the University of Liverpool and the International Inequalities Institute at the London School of Economics and Political Science. My research explores the economic and distributional consequences of innovation, environmental shocks, and globalisation, using tools from applied microeconomics, data science, causal inference, and machine learning.\nI completed a PhD in Economic Geography at the London School of Economics and Political Science, where I examined how innovation and global connectivity shape firm-level and regional outcomes. I hold a Master’s in Economics from the Vienna University of Economics and Business and have held visiting positions at Sciences Po and Utrecht University. Prior to my current roles, I was a research associate at the University of Cambridge and a consultant at the Asian Development Bank."
+    "text": "PhD in Economic Geography\nLondon School of Economics and Political Science (LSE), UK (Sep 2020 - Jan 2024)\n- Thesis: Essays on Regional Inequalities, Innovation and Global Connectivity - Marie Skłodowska-Curie Fellow, Policies for Smart Specialisation (2020–2023) - Charles Tiebout Prize, best PhD student paper, Western Regional Science Association (2023)\nMaster’s Degree in Economics\nVienna University of Economics and Business, Austria (2017 - 2019)\n- Passed with distinction - FIW Award: First prize for excellent dissertations (2020)\nDouble Bachelor’s Degree\nVienna University of Economics and Business, Austria (2012 - 2017)\n- BSc Economics and Social Sciences - BA Chinese and International Business Administration"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "PhD in Economic Geography\nLondon School of Economics and Political Science (LSE), UK (Sep 2020 - Jan 2024)\n- Thesis: Essays on Regional Inequalities, Innovation and Global Connectivity - Marie Skłodowska-Curie Fellow, Policies for Smart Specialisation (2020–2023) - Charles Tiebout Prize, best PhD student paper, Western Regional Science Association (2023)\nMaster’s Degree in Economics\nVienna University of Economics and Business, Austria (2017 - 2019)\n- Passed with distinction - FIW Award: First prize for excellent dissertations (2020)\nDouble Bachelor’s Degree\nVienna University of Economics and Business, Austria (2012 - 2017)\n- BSc Economics and Social Sciences - BA Chinese and International Business Administration"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About Me",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nPostdoctoral Researcher, Geographical Data Science Lab\nUniversity of Liverpool, UK (July 2025 – Present)\n- Advancing the use of large-scale satellite data using machine learning in assessing climate-related and inequality risks. - Engaging with DEFRA and MHCLG to inform policy decision-making on flood risk and resilience.\nResearch Officer, International Inequalities Institute\nLondon School of Economics and Political Science, UK (Feb 2024 - Present)\n- Co-Director on Environmental Inequality. - Research on Comparative Political Economy, STICERD’s Cohesive Capitalism Research Programme.\nResearch Associate, Policy Evidence Unit for University Commercialisation and Innovation\nUniversity of Cambridge, UK (July 2025 – January 2026)\n- Evaluated the UK’s first-ever national spinout register using the ONS Secure Research Service.\nConsultant, Strategy, Policy and Partnerships Department\nAsian Development Bank, Austria (Feb - Nov 2020)"
+  },
+  {
+    "objectID": "about.html#grants-funding",
+    "href": "about.html#grants-funding",
+    "title": "About Me",
+    "section": "Grants & Funding",
+    "text": "Grants & Funding\n\nPolicy Support Fund (£43,962): Co-Investigator on FloodTraces Grant: Flooding and Mobility using Mobile Phone data (2025).\nLSE Global School of Sustainability Grant (£99,651): Named Researcher for the establishment of a research programme at the International Inequalities Institute (2025).\nRSA Research Network Grant (£10,000): Co-Investigator on Smart Policies for Regional Innovation, Sustainability and Transitions (2024).\nERC LSBS Small Grant (£5,000): Principal Investigator on research project on SMEs, technology adoption, and Brexit (2023)."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Multinationals and Innovation Concentration\nStudy of how the presence of multinational enterprises shapes inter-firm innovation concentration within US states, with implications for aggregate productivity growth and regional divergence. Published in Research Policy, 54(6), 105235. [file:1]\nTrade Ties and Economic Divides: Trade and Income Inequality in the Regions of Europe (with A. Rodríguez-Pose)\nAnalysis of the effect of trade on regional income inequalities across European regions. Published in Growth and Change 56(2): e70036. [file:1]\nClimate Impacts on Material Wealth Inequality: Global evidence from a Subnational Dataset (with R. Hoffmann and C. Riom)\nEvidence on how climate impacts affect material wealth inequality using a global subnational dataset. LSE Working Paper in Environmental Economics and Policy, No. 48; under review at Nature Communications. [file:1]\nGlobal Value Chains and Top Income Inequality (with E. Hernández Rodríguez)\nStudy of the effect of participation in global value chains on regional income inequalities; under review at Papers in Regional Science. [file:1]"
+    "text": "Multinationals and Innovation Concentration\nStudy of how the presence of multinational enterprises shapes inter-firm innovation concentration within US states, with implications for aggregate productivity growth and regional divergence. Published in Research Policy, 54(6), 105235.\nTrade Ties and Economic Divides: Trade and Income Inequality in the Regions of Europe (with A. Rodríguez-Pose)\nAnalysis of the effect of trade on regional income inequalities across European regions. Published in Growth and Change 56(2): e70036.\nClimate Impacts on Material Wealth Inequality: Global evidence from a Subnational Dataset (with R. Hoffmann and C. Riom)\nEvidence on how climate impacts affect material wealth inequality using a global subnational dataset. LSE Working Paper in Environmental Economics and Policy, No. 48. Under review in World Development.\nGlobal Value Chains and Top Income Inequality (with E. Hernández Rodríguez)\nStudy of the effect of participation in global value chains on regional income inequalities. Under review in Papers in Regional Science.\nWorker Representation and Innovation in Europe (with F. Mitsch, A. Hassel and K. Weil)\nStudy on the role of worker representation on innovation. Submitted to Socio-Economic Review in April 2026."
   },
   {
     "objectID": "publications.html#journal-articles",
     "href": "publications.html#journal-articles",
     "title": "Publications",
     "section": "",
-    "text": "Multinationals and Innovation Concentration\nStudy of how the presence of multinational enterprises shapes inter-firm innovation concentration within US states, with implications for aggregate productivity growth and regional divergence. Published in Research Policy, 54(6), 105235. [file:1]\nTrade Ties and Economic Divides: Trade and Income Inequality in the Regions of Europe (with A. Rodríguez-Pose)\nAnalysis of the effect of trade on regional income inequalities across European regions. Published in Growth and Change 56(2): e70036. [file:1]\nClimate Impacts on Material Wealth Inequality: Global evidence from a Subnational Dataset (with R. Hoffmann and C. Riom)\nEvidence on how climate impacts affect material wealth inequality using a global subnational dataset. LSE Working Paper in Environmental Economics and Policy, No. 48; under review at Nature Communications. [file:1]\nGlobal Value Chains and Top Income Inequality (with E. Hernández Rodríguez)\nStudy of the effect of participation in global value chains on regional income inequalities; under review at Papers in Regional Science. [file:1]"
+    "text": "Multinationals and Innovation Concentration\nStudy of how the presence of multinational enterprises shapes inter-firm innovation concentration within US states, with implications for aggregate productivity growth and regional divergence. Published in Research Policy, 54(6), 105235.\nTrade Ties and Economic Divides: Trade and Income Inequality in the Regions of Europe (with A. Rodríguez-Pose)\nAnalysis of the effect of trade on regional income inequalities across European regions. Published in Growth and Change 56(2): e70036.\nClimate Impacts on Material Wealth Inequality: Global evidence from a Subnational Dataset (with R. Hoffmann and C. Riom)\nEvidence on how climate impacts affect material wealth inequality using a global subnational dataset. LSE Working Paper in Environmental Economics and Policy, No. 48. Under review in World Development.\nGlobal Value Chains and Top Income Inequality (with E. Hernández Rodríguez)\nStudy of the effect of participation in global value chains on regional income inequalities. Under review in Papers in Regional Science.\nWorker Representation and Innovation in Europe (with F. Mitsch, A. Hassel and K. Weil)\nStudy on the role of worker representation on innovation. Submitted to Socio-Economic Review in April 2026."
   },
   {
     "objectID": "publications.html#working-papers-and-work-in-progress",
     "href": "publications.html#working-papers-and-work-in-progress",
     "title": "Publications",
     "section": "Working papers and work in progress",
-    "text": "Working papers and work in progress\n\nExtreme Temperature, Housing and Wellbeing (with S. Waltl, D. Niu and H. Hasenberger). Work in progress. [file:1]\nWorker Representation and Innovation in Europe (with F. Mitsch, A. Hassel and K. Weil). Planned submission to Socio-Economic Review in February 2026. [file:1]\nThe political economy of Europe’s innovation problem (with N. Lee, M. Herbertson, D. Soskice and M. Storper). Planned submission as LSE Working Paper in January 2026. [file:1]\nFlooding and Mobility (with E. Pietrostefani and F. Rowe). Work in progress. [file:1]\nSovereign Wealth Funds (with N. Lee, S. Iammarino and H. Arman). Planned submission to World Development in January 2026. [file:1]\nBrexit and Digital Technology Adoption of SMEs in the UK (with D. Ampudia), ERC Research paper 106. [file:1]\nThe Political Impact of Inflation: A Survey Experiment (with N. Lee and A. McNeil), International Inequalities Institute Working Paper 140, LSE. [file:1]"
+    "text": "Working papers and work in progress\n\nThe Political Impact of Inflation: A Survey Experiment (with N. Lee and A. McNeil), International Inequalities Institute Working Paper 140, LSE.\nBrexit and Digital Technology Adoption of SMEs in the UK (with D. Ampudia), ERC Research paper 106.\nIncome, sovereignty, and cohesion: the political economy of Europe’s first mover innovation deficit (with N. Lee, M. Herbertson, D. Soskice and M. Storper). Planned submission to Journal of European Public Policy in July 2026.\nSovereign wealth funds and national economic development: A global overview of strategic investment funds (with N. Lee, S. Iammarino and H. Arman). Planned submission to Journal of International Business Policy in August 2026.\nExtreme Temperature, Housing and Wellbeing (with S. Waltl, D. Niu and H. Hasenberger). Work in progress.\nAssessing the Climate Impact on Jobs (with R. Hoffmann). Work in progress.\nDetecting Green and Built Environment using Satellite Data and Machine Learning (with R. Mahabir, and F. Cheng). A study leveraging Sentinel-2 imagery and machine learning techniques. Work in progress.\nFloodTraces: Flooding and Mobility (with E. Pietrostefani and F. Rowe). A study on the short-term adaptation to flooding using mobile phone data. Work in progress."
   },
   {
     "objectID": "publications.html#book-chapters",
     "href": "publications.html#book-chapters",
     "title": "Publications",
     "section": "Book chapters",
-    "text": "Book chapters\n\nInnovation, Industrial Dynamics and Regional Inequalities (with R. Boschma and S. Petralia), in Handbook of Industrial Development. [file:1]"
+    "text": "Book chapters\n\nInnovation, Industrial Dynamics and Regional Inequalities (with R. Boschma and S. Petralia), in Handbook of Industrial Development."
   },
   {
     "objectID": "contact.html",
@@ -40,5 +61,12 @@
     "title": "Contact",
     "section": "",
     "text": "&lt;div class=\"contact-card\"&gt;\n    &lt;div class=\"profile-header\"&gt;\n        &lt;div class=\"profile-text\"&gt;\n            &lt;h2&gt;Martina Pardy&lt;/h2&gt;\n            &lt;p class=\"position\"&gt;Postdoctoral Researcher&lt;/p&gt;\n            &lt;div class=\"affiliations\"&gt;\n                &lt;p&gt;&lt;i class=\"fas fa-university\"&gt;&lt;/i&gt; University of Liverpool | School of Environmental Sciences&lt;/p&gt;\n                &lt;p&gt;&lt;i class=\"fas fa-university\"&gt;&lt;/i&gt; London School of Economics and Political Science&lt;/p&gt;\n            &lt;/div&gt;\n        &lt;/div&gt;\n    &lt;/div&gt;\n\n    &lt;div class=\"contact-methods\"&gt;\n        &lt;a href=\"mailto:m.l.pardy@lse.ac.uk\" class=\"contact-item\"&gt;\n            &lt;i class=\"fas fa-envelope\"&gt;&lt;/i&gt;\n            &lt;span&gt;m.l.pardy@lse.ac.uk&lt;/span&gt;\n        &lt;/a&gt;\n        &lt;a href=\"mailto:m.l.pardy@liverpool.ac.uk\" class=\"contact-item\"&gt;\n            &lt;i class=\"fas fa-envelope\"&gt;&lt;/i&gt;\n            &lt;span&gt;m.l.pardy@liverpool.ac.uk&lt;/span&gt;\n        &lt;/a&gt;\n    &lt;/div&gt;\n\n    &lt;div class=\"social-links\"&gt;\n        &lt;a href=\"https://scholar.google.com/citations?user=MAPIUJwAAAAJ&hl=en&oi=sra\" target=\"_blank\" title=\"Google Scholar\"&gt;\n            &lt;i class=\"fab fa-google\"&gt;&lt;/i&gt;\n        &lt;/a&gt;\n        &lt;a href=\"https://www.linkedin.com/in/martina-p-86572576/\" target=\"_blank\" title=\"LinkedIn\"&gt;\n            &lt;i class=\"fab fa-linkedin-in\"&gt;&lt;/i&gt;\n        &lt;/a&gt;\n        &lt;a href=\"https://github.com/mpardy\" target=\"_blank\" title=\"GitHub\"&gt;\n            &lt;i class=\"fab fa-github\"&gt;&lt;/i&gt;\n        &lt;/a&gt;\n    &lt;/div&gt;\n\n    &lt;hr&gt;\n\n    &lt;div class=\"collaboration-invite\"&gt;\n        &lt;h3&gt;Let's Chat&lt;/h3&gt;\n        &lt;p&gt;Reach out if you want to talk about research, collaborations, or invitations to speak!&lt;/p&gt;\n    &lt;/div&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Martina Pardy\n\n\n\n\nWelcome to my website!\n\n\n\n\n\nWelcome to my website!\n\nI am a Postdoctoral Researcher at the Geographical Data Science Lab at the University of Liverpool and the International Inequalities Institute at the London School of Economics and Political Science. My research explores the economic and distributional consequences of innovation, environmental shocks, and globalisation, using tools from applied microeconomics, data science, causal inference, and machine learning.\nI completed a PhD in Economic Geography at the London School of Economics and Political Science, where I examined how innovation and global connectivity shape firm-level and regional outcomes. I hold a Master’s in Economics from the Vienna University of Economics and Business and have held visiting positions at Sciences Po and Utrecht University. Prior to my current roles, I was a research associate at the University of Cambridge and a consultant at the Asian Development Bank."
   }
 ]

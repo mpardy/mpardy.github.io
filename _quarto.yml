@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Martina Pardy"
+  navbar:
+    left:
+      - href: index.md
+        text: Home
+      - href: about.md
+        text: About
+      - href: publications.md
+        text: Publications
+      - href: contact.md
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    toc: true
