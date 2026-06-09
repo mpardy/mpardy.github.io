@@ -31,9 +31,7 @@ permalink: /research/
 
 - **Sovereign wealth funds and national economic development: A global overview of strategic investment funds** (with N. Lee, S. Iammarino and H. Arman). Planned submission to *Journal of International Business Policy* in August 2026.
 
-- **Extreme Temperature, Housing and Wellbeing** (with S. Waltl, D. Niu and H. Hasenberger). Work in progress.
 
-- **Assessing the Climate Impact on Jobs** (with R. Hoffmann). Work in progress.
 
 - **Detecting Green and Built Environment using Satellite Data and Machine Learning** (with R. Mahabir, and F. Cheng). A study leveraging Sentinel-2 imagery and machine learning techniques. Work in progress.
 
