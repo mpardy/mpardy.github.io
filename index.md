@@ -1,5 +1,6 @@
 ---
 layout: page
+page-layout: full
 title: "Home"
 permalink: /
 ---
