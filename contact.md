@@ -1,0 +1,168 @@
+---
+layout: page
+title: "Contact"
+permalink: /contact/
+---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+<div class="contact-container">
+    <div class="contact-card">
+        <div class="profile-header">
+            <div class="profile-text">
+                <h2>Martina Pardy</h2>
+                <p class="position">Postdoctoral Researcher</p>
+                <div class="affiliations">
+                    <p><i class="fas fa-university"></i> University of Liverpool | School of Environmental Sciences</p>
+                    <p><i class="fas fa-university"></i> London School of Economics and Political Science</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="contact-methods">
+            <a href="mailto:m.l.pardy@lse.ac.uk" class="contact-item">
+                <i class="fas fa-envelope"></i>
+                <span>m.l.pardy@lse.ac.uk</span>
+            </a>
+            <a href="mailto:m.l.pardy@liverpool.ac.uk" class="contact-item">
+                <i class="fas fa-envelope"></i>
+                <span>m.l.pardy@liverpool.ac.uk</span>
+            </a>
+        </div>
+
+        <div class="social-links">
+            <a href="https://scholar.google.com/citations?user=MAPIUJwAAAAJ&hl=en&oi=sra" target="_blank" title="Google Scholar">
+                <i class="fab fa-google"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/martina-p-86572576/" target="_blank" title="LinkedIn">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="https://github.com/mpardy" target="_blank" title="GitHub">
+                <i class="fab fa-github"></i>
+            </a>
+        </div>
+
+        <hr>
+
+        <div class="collaboration-invite">
+            <h3>Let's Chat</h3>
+            <p>Reach out if you want to talk about research, collaborations, or invitations to speak!</p>
+        </div>
+    </div>
+</div>
+
+<style>
+.contact-container {
+    padding: 2rem 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contact-card {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    padding: 2.5rem;
+    border: 1px solid #f0f0f0;
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.profile-text h2 {
+    margin: 0 0 0.5rem 0;
+    font-size: 2rem;
+    color: #333;
+}
+
+.position {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 1rem;
+    font-weight: 500;
+}
+
+.affiliations p {
+    margin: 0.2rem 0;
+    color: #777;
+    font-size: 0.95rem;
+}
+
+.affiliations i {
+    width: 20px;
+    color: #444;
+}
+
+.contact-methods {
+    margin: 2rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.contact-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.8rem;
+    text-decoration: none;
+    color: #2a7ae2;
+    font-weight: 500;
+    padding: 0.8rem 1.2rem;
+    background: #f8faff;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+}
+
+.contact-item:hover {
+    background: #eef4ff;
+    transform: translateY(-2px);
+}
+
+.social-links {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.social-links a {
+    font-size: 1.8rem;
+    color: #555;
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.social-links a:hover {
+    color: #2a7ae2;
+    transform: scale(1.1);
+}
+
+.collaboration-invite h3 {
+    margin-top: 1.5rem;
+    font-size: 1.3rem;
+    color: #333;
+}
+
+.collaboration-invite p {
+    color: #555;
+    line-height: 1.6;
+}
+
+@media (max-width: 600px) {
+    .profile-header {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .social-links {
+        justify-content: center;
+    }
+    
+    .contact-item {
+        width: 100%;
+        justify-content: center;
+    }
+}
+</style>

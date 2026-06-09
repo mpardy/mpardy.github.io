@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Martina Pardy\n\n\n\n\nWelcome to my website!\n\n\n\n\nI am a Postdoctoral Researcher at the Geographical Data Science Lab at the University of Liverpool and the International Inequalities Institute at the London School of Economics and Political Science. My research explores the economic and distributional consequences of innovation, environmental shocks, and globalisation, using tools from applied microeconomics, data science, causal inference, and machine learning.\nI completed a PhD in Economic Geography at the London School of Economics and Political Science, where I examined how innovation and global connectivity shape firm-level and regional outcomes. I hold a Master’s in Economics from the Vienna University of Economics and Business and have held visiting positions at Sciences Po and Utrecht University. Prior to my current roles, I was a research associate at the University of Cambridge and a consultant at the Asian Development Bank."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Multinationals and Innovation Concentration\nStudy of how the presence of multinational enterprises shapes inter-firm innovation concentration within US states, with implications for aggregate productivity growth and regional divergence. Published in Research Policy, 54(6), 105235. [file:1]\nTrade Ties and Economic Divides: Trade and Income Inequality in the Regions of Europe (with A. Rodríguez-Pose)\nAnalysis of the effect of trade on regional income inequalities across European regions. Published in Growth and Change 56(2): e70036. [file:1]\nClimate Impacts on Material Wealth Inequality: Global evidence from a Subnational Dataset (with R. Hoffmann and C. Riom)\nEvidence on how climate impacts affect material wealth inequality using a global subnational dataset. LSE Working Paper in Environmental Economics and Policy, No. 48; under review at Nature Communications. [file:1]\nGlobal Value Chains and Top Income Inequality (with E. Hernández Rodríguez)\nStudy of the effect of participation in global value chains on regional income inequalities; under review at Papers in Regional Science. [file:1]"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Multinationals and Innovation Concentration\nStudy of how the presence of multinational enterprises shapes inter-firm innovation concentration within US states, with implications for aggregate productivity growth and regional divergence. Published in Research Policy, 54(6), 105235. [file:1]\nTrade Ties and Economic Divides: Trade and Income Inequality in the Regions of Europe (with A. Rodríguez-Pose)\nAnalysis of the effect of trade on regional income inequalities across European regions. Published in Growth and Change 56(2): e70036. [file:1]\nClimate Impacts on Material Wealth Inequality: Global evidence from a Subnational Dataset (with R. Hoffmann and C. Riom)\nEvidence on how climate impacts affect material wealth inequality using a global subnational dataset. LSE Working Paper in Environmental Economics and Policy, No. 48; under review at Nature Communications. [file:1]\nGlobal Value Chains and Top Income Inequality (with E. Hernández Rodríguez)\nStudy of the effect of participation in global value chains on regional income inequalities; under review at Papers in Regional Science. [file:1]"
+  },
+  {
+    "objectID": "publications.html#working-papers-and-work-in-progress",
+    "href": "publications.html#working-papers-and-work-in-progress",
+    "title": "Publications",
+    "section": "Working papers and work in progress",
+    "text": "Working papers and work in progress\n\nExtreme Temperature, Housing and Wellbeing (with S. Waltl, D. Niu and H. Hasenberger). Work in progress. [file:1]\nWorker Representation and Innovation in Europe (with F. Mitsch, A. Hassel and K. Weil). Planned submission to Socio-Economic Review in February 2026. [file:1]\nThe political economy of Europe’s innovation problem (with N. Lee, M. Herbertson, D. Soskice and M. Storper). Planned submission as LSE Working Paper in January 2026. [file:1]\nFlooding and Mobility (with E. Pietrostefani and F. Rowe). Work in progress. [file:1]\nSovereign Wealth Funds (with N. Lee, S. Iammarino and H. Arman). Planned submission to World Development in January 2026. [file:1]\nBrexit and Digital Technology Adoption of SMEs in the UK (with D. Ampudia), ERC Research paper 106. [file:1]\nThe Political Impact of Inflation: A Survey Experiment (with N. Lee and A. McNeil), International Inequalities Institute Working Paper 140, LSE. [file:1]"
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book chapters",
+    "text": "Book chapters\n\nInnovation, Industrial Dynamics and Regional Inequalities (with R. Boschma and S. Petralia), in Handbook of Industrial Development. [file:1]"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "&lt;div class=\"contact-card\"&gt;\n    &lt;div class=\"profile-header\"&gt;\n        &lt;div class=\"profile-text\"&gt;\n            &lt;h2&gt;Martina Pardy&lt;/h2&gt;\n            &lt;p class=\"position\"&gt;Postdoctoral Researcher&lt;/p&gt;\n            &lt;div class=\"affiliations\"&gt;\n                &lt;p&gt;&lt;i class=\"fas fa-university\"&gt;&lt;/i&gt; University of Liverpool | School of Environmental Sciences&lt;/p&gt;\n                &lt;p&gt;&lt;i class=\"fas fa-university\"&gt;&lt;/i&gt; London School of Economics and Political Science&lt;/p&gt;\n            &lt;/div&gt;\n        &lt;/div&gt;\n    &lt;/div&gt;\n\n    &lt;div class=\"contact-methods\"&gt;\n        &lt;a href=\"mailto:m.l.pardy@lse.ac.uk\" class=\"contact-item\"&gt;\n            &lt;i class=\"fas fa-envelope\"&gt;&lt;/i&gt;\n            &lt;span&gt;m.l.pardy@lse.ac.uk&lt;/span&gt;\n        &lt;/a&gt;\n        &lt;a href=\"mailto:m.l.pardy@liverpool.ac.uk\" class=\"contact-item\"&gt;\n            &lt;i class=\"fas fa-envelope\"&gt;&lt;/i&gt;\n            &lt;span&gt;m.l.pardy@liverpool.ac.uk&lt;/span&gt;\n        &lt;/a&gt;\n    &lt;/div&gt;\n\n    &lt;div class=\"social-links\"&gt;\n        &lt;a href=\"https://scholar.google.com/citations?user=MAPIUJwAAAAJ&hl=en&oi=sra\" target=\"_blank\" title=\"Google Scholar\"&gt;\n            &lt;i class=\"fab fa-google\"&gt;&lt;/i&gt;\n        &lt;/a&gt;\n        &lt;a href=\"https://www.linkedin.com/in/martina-p-86572576/\" target=\"_blank\" title=\"LinkedIn\"&gt;\n            &lt;i class=\"fab fa-linkedin-in\"&gt;&lt;/i&gt;\n        &lt;/a&gt;\n        &lt;a href=\"https://github.com/mpardy\" target=\"_blank\" title=\"GitHub\"&gt;\n            &lt;i class=\"fab fa-github\"&gt;&lt;/i&gt;\n        &lt;/a&gt;\n    &lt;/div&gt;\n\n    &lt;hr&gt;\n\n    &lt;div class=\"collaboration-invite\"&gt;\n        &lt;h3&gt;Let's Chat&lt;/h3&gt;\n        &lt;p&gt;Reach out if you want to talk about research, collaborations, or invitations to speak!&lt;/p&gt;\n    &lt;/div&gt;\n&lt;/div&gt;"
+  }
+]
