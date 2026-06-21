@@ -7,7 +7,7 @@ permalink: /events/
 Here is a selection of training sessions I have held and events I have organised:
 
 ## Spatial Data Science Workshop
-*Training Session — Belfast, May 12th, RSAI-BIS conference, University of Belfast*
+*Training Session — Belfast, May 12th, 2026, RSAI-BIS conference, University of Belfast*
 
 **Website:** [https://imago-sdruk.github.io/Imago_training/](https://imago-sdruk.github.io/Imago_training/)
 
@@ -22,7 +22,7 @@ Designed for participants with varied technical backgrounds, the workshop welcom
 ---
 
 ## FloodTraces Policy Workshop and Hackathon
-*Event Organised — London School of Economics, June 22-24*
+*Event Organised — London School of Economics, June 22-24, 2026*
 
 **Website:** [https://pietrostefani.github.io/floodtraces-hack/](https://pietrostefani.github.io/floodtraces-hack/)
 
