@@ -4,8 +4,13 @@ title: "Research"
 permalink: /research/
 ---
 
-## Journal articles
+::: {.grid}
 
+::: {.g-col-12 .g-col-md-3}
+## Journal articles
+:::
+
+::: {.g-col-12 .g-col-md-9}
 1. **[Multinationals and Innovation Concentration](https://doi.org/10.1016/j.respol.2025.105235)**  
    *Published in Research Policy, 54(6), 105235.*  
    **Abstract:** This article examines the extent to which the presence of multinational enterprises (MNEs) influences the concentration of innovation among patenting firms within US states from 1976 to 2010. Merging patent and regional socioeconomic data, this study explores the effects within 50 US states over more than three decades using Ordinary-Least-Square and Instrumental Variable estimations. It shows that MNEs significantly contribute to the concentration of patenting activity, an effect predominantly driven by domestic-owned MNEs. The impact differs across space: states with a higher share of MNEs experience a sharper increase in patenting concentration. Crucially, it is the non-MNE firms that feel the squeeze the most, with those in the middle of the patenting hierarchy producing fewer patents when domestic MNEs ramp up their activity. This suggests that economic globalisation, while enhancing innovation opportunities for some, reinforces competitive pressures and barriers for others. These findings offer a new perspective on the forces shaping regional innovation dynamics, highlighting the role of MNEs in both amplifying innovation gains and exacerbating disparities in knowledge production.
@@ -14,9 +19,13 @@ permalink: /research/
    with Andrés Rodríguez-Pose  
    *Published in Growth and Change 56(2): e70036. [CEPR Discussion Paper 20255](https://cepr.org/publications/dp20255)*  
    **Abstract:** This paper analyses how trade influences intra-regional income inequality across Europe's NUTS-2 regions. Drawing on newly compiled datasets capturing both inter-regional trade and local-level inequality for all EU member states plus the UK, we employ an econometric framework—complete with Instrumental Variable estimations and robust sensitivity analyses—to gauge the impact of trade on regional interpersonal inequality. In addition to examining aggregate trade, we distinguish between various trade channels, including exchanges within the EU versus those with the rest of the world, links to neighbouring regions versus non-neighbours and domestic versus international flows. Our findings reveal that higher levels of trade are positively associated with changes in regional income inequality, as measured by the Gini coefficient. Crucially, this link depends on trading partners: trade within a single country, within the EU and with non-neighbouring regions correlates with rising inequality, whereas international trade, trade with non-EU partners or trade with neighbouring regions shows no statistically significant effect. These conclusions withstand a battery of robustness checks, including new control variables and a population-weighted approach, further underscoring the role that particular types of trade play in shaping regional income disparities.
+:::
 
+::: {.g-col-12 .g-col-md-3}
 ## Working papers and work in progress
+:::
 
+::: {.g-col-12 .g-col-md-9}
 - **[Climate Impacts on Material Wealth Inequality: Global evidence from a Subnational Dataset](https://eprints.lse.ac.uk/125447/1/DPS_48_pardy_et_al.pdf)**  
   with Roman Hoffmann and Capucine Riom  
   *LSE Working Paper in Environmental Economics and Policy, Paper No. 48. Under Review in World Development.*  
@@ -36,10 +45,17 @@ permalink: /research/
   with Neil Lee, Max Herbertson, David Soskice and Michael Storper  
   *LSE Working Paper.*  
   **Abstract:** Europe’s economic stagnation and declining global position stem from its failure to lead in first mover innovation, as the United States and, increasingly, China have produced the new breakthrough technologies of the latest industrial revolution. In this paper, we consider the causes of this innovation problem: interrelated issues in the structure of innovation institutions, education, geography, finance and markets, all of which have deep political roots. We build on a game theory model of strategic complementarities and mutual commitments to suggest a path forward which would allow a ‘coalition of the willing’ of advanced European states to develop US style institutions of innovation while combining them with Europe’s social model. Using this, we chart a feasible transition path for Europe which builds on strengths in incremental innovation while creating first mover capacities through integrated capital markets, venture ecosystems, and focused regional cluster development. Only by overcoming its first mover innovation gap, while not abandoning the goals of its social model, can Europe achieve growth, global relevance, and social stability in an era of intensified geopolitical and technological competition.
+:::
 
+::: {.g-col-12 .g-col-md-3}
 ## Book chapters
+:::
 
+::: {.g-col-12 .g-col-md-9}
 - **[Innovation, Industrial Dynamics and Regional Inequalities](https://www.elgaronline.com/edcollchap/book/9781800379091/book-part-9781800379091-18.xml)**  
   with R. Boschma and S. Petralia  
   *Published in Handbook of Industrial Development (Edward Elgar Publishing).*  
   **Abstract:** While regional policy seeks to achieve both "smart" (innovation-led) and "inclusive" (reduction of inequality) growth, there is growing concern that these two objectives may not always be compatible. This chapter explores the tension between these goals by examining how innovation and industrial dynamics influence regional disparities. It addresses the challenges of balancing high-tech, innovation-driven regional development with the need to ensure economic opportunities are spread broadly across different types of regions.
+:::
+
+:::
