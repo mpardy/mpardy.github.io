@@ -26,7 +26,7 @@ Designed for participants with varied technical backgrounds, the workshop welcom
 
 **Website:** [https://pietrostefani.github.io/floodtraces-hack/](https://pietrostefani.github.io/floodtraces-hack/)
 
-<img src="assets/images/floodtraces_banner.png" alt="FloodTraces Policy Workshop Banner" style="max-width: 100%; height: auto; margin: 10px 0;">
+
 
 **About FloodTraces**  
 The global challenge of internal displacement, exacerbated by climate-induced natural hazards, demands more timely and granular data than traditional survey methods alone can provide. In 2024, floods affected an estimated 40 million people worldwide — making them the most common disaster type globally — yet decision-makers in the critical first days after an event often face a near-total absence of reliable displacement figures.
