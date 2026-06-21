@@ -41,7 +41,13 @@ FloodTraces addresses the critical gap in internal displacement data following c
 
 **Website:** [https://www.lse.ac.uk/events/lse-festival/2026/can-we-tackle-climate-change-without-deepening-inequality](https://www.lse.ac.uk/events/lse-festival/2026/can-we-tackle-climate-change-without-deepening-inequality)
 
-A discussion exploring the intersection of climate action and social equality, examining policies and approaches to ensure that the transition to a greener economy does not leave vulnerable populations behind.
+The climate crisis is reshaping economies, societies, and livelihoods—but not everyone bears its costs equally.
+
+From heatwaves to floods, the poorest communities, particularly in the Global South, face the greatest risks, while climate policies can impose heavier burdens on those least able to afford them. How can we save the planet in ways that are not only effective, but also fair?
+
+This panel brings together leading academics and practitioners to explore the deep links between climate change and inequality—within and between countries. The discussion will ask how environmental, economic and social policy can work together to ensure that climate action reduces, rather than reinforces, inequality.
+
+Drawing on experiences from across the globe, panellists will highlight practical, inclusive approaches to climate action and climate justice, and reflect on how fairness and inclusion can help build the political coalitions needed for a just transition.
 :::
 
 :::
