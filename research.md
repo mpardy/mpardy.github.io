@@ -19,3 +19,28 @@ permalink: /research/
 - **[Innovation, Industrial Dynamics and Regional Inequalities](https://www.elgaronline.com/edcollchap/book/9781800379091/book-part-9781800379091-18.xml)** (with R. Boschma and S. Petralia)  
   *Published in Handbook of Industrial Development (Edward Elgar Publishing).*  
   **Abstract:** While regional policy seeks to achieve both "smart" (innovation-led) and "inclusive" (reduction of inequality) growth, there is growing concern that these two objectives may not always be compatible. This chapter explores the tension between these goals by examining how innovation and industrial dynamics influence regional disparities. It addresses the challenges of balancing high-tech, innovation-driven regional development with the need to ensure economic opportunities are spread broadly across different types of regions.
+
+## Working papers and work in progress
+
+- **The Political Impact of Inflation: A Survey Experiment** (with N. Lee and A. McNeil)  
+  *International Inequalities Institute Working Paper 140, LSE.*  
+  **Summary:** This study utilizes a survey experiment to test the effects of inflation and understand how the public responds politically to inflationary shocks, contributing to the broader literature on economic voting and the political consequences of economic instability.
+
+- **Brexit and Digital Technology Adoption of SMEs in the UK** (with D. Ampudia)  
+  *ERC Research paper 106.*  
+  **Summary:** This study investigates how trade policy uncertainty—specifically the Brexit referendum and its aftermath—has influenced the adoption of digital technologies among Small and Medium-sized Enterprises (SMEs) in the UK, with a focus on spatial differences.
+
+- **Climate Impacts on Material Wealth Inequality: Global evidence from a Subnational Dataset** (with R. Hoffmann and C. Riom)  
+  *LSE Working Paper in Environmental Economics and Policy, No. 48. Under review in World Development.*  
+  **Summary:** This paper provides evidence on how climate impacts affect material wealth inequality using a global subnational dataset.
+
+- **Global Value Chains and Top Income Inequality** (with E. Hernández Rodríguez)  
+  *Under review in Papers in Regional Science.*  
+  **Summary:** A study of the effect of participation in global value chains on regional income inequalities.
+
+- **Worker Representation and Innovation in Europe** (with F. Mitsch, A. Hassel and K. Weil)  
+  *Submitted to Socio-Economic Review.*  
+  **Summary:** A study examining the role of worker representation on innovation across European firms.
+
+- **Income, sovereignty, and cohesion: the political economy of Europe’s first mover innovation deficit** (with N. Lee, M. Herbertson, D. Soskice and M. Storper)  
+  *Planned submission to Journal of European Public Policy.*
