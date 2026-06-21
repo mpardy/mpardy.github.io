@@ -34,13 +34,5 @@ permalink: /research/
   *LSE Working Paper in Environmental Economics and Policy, No. 48. Under review in World Development.*  
   **Summary:** This paper provides evidence on how climate impacts affect material wealth inequality using a global subnational dataset.
 
-- **Global Value Chains and Top Income Inequality** (with E. Hernández Rodríguez)  
-  *Under review in Papers in Regional Science.*  
-  **Summary:** A study of the effect of participation in global value chains on regional income inequalities.
-
-- **Worker Representation and Innovation in Europe** (with F. Mitsch, A. Hassel and K. Weil)  
-  *Submitted to Socio-Economic Review.*  
-  **Summary:** A study examining the role of worker representation on innovation across European firms.
-
 - **Income, sovereignty, and cohesion: the political economy of Europe’s first mover innovation deficit** (with N. Lee, M. Herbertson, D. Soskice and M. Storper)  
   *Planned submission to Journal of European Public Policy.*
