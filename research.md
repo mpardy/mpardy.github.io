@@ -6,37 +6,16 @@ permalink: /research/
 
 ## Journal articles
 
-1. **Multinationals and Innovation Concentration**  
-   Study of how the presence of multinational enterprises shapes inter-firm innovation concentration within US states, with implications for aggregate productivity growth and regional divergence. Published in *Research Policy*, 54(6), 105235.
+1. **[Multinationals and Innovation Concentration](https://doi.org/10.1016/j.respol.2025.105235)**  
+   *Published in Research Policy, 54(6), 105235.*  
+   **Abstract:** This study examines how the presence of multinational enterprises (MNEs) influences the concentration of innovation among patenting firms within US states. By merging patent data with regional socioeconomic data from 1976 to 2010, the research demonstrates that MNEs significantly contribute to the concentration of patenting activity within these regions. The findings provide insights for policymakers regarding the distribution of economic gains from globalization and strategies to mitigate associated costs.
 
-2. **Trade Ties and Economic Divides: Trade and Income Inequality in the Regions of Europe** (with A. Rodríguez-Pose)  
-   Analysis of the effect of trade on regional income inequalities across European regions. Published in *Growth and Change* 56(2): e70036.
-
-3. **Climate Impacts on Material Wealth Inequality: Global evidence from a Subnational Dataset** (with R. Hoffmann and C. Riom)  
-   Evidence on how climate impacts affect material wealth inequality using a global subnational dataset. LSE Working Paper in Environmental Economics and Policy, No. 48. Under review in *World Development*.
-
-4. **Global Value Chains and Top Income Inequality** (with E. Hernández Rodríguez)  
-   Study of the effect of participation in global value chains on regional income inequalities. Under review in *Papers in Regional Science*.
-
-5. **Worker Representation and Innovation in Europe** (with F. Mitsch, A. Hassel and K. Weil)  
-   Study on the role of worker representation on innovation. Submitted to *Socio-Economic Review* in April 2026.
-
-## Working papers and work in progress
-
-- **The Political Impact of Inflation: A Survey Experiment** (with N. Lee and A. McNeil), International Inequalities Institute Working Paper 140, LSE.
-
-- **Brexit and Digital Technology Adoption of SMEs in the UK** (with D. Ampudia), ERC Research paper 106.
-
-- **Income, sovereignty, and cohesion: the political economy of Europe’s first mover innovation deficit** (with N. Lee, M. Herbertson, D. Soskice and M. Storper). Planned submission to *Journal of European Public Policy* in July 2026.
-
-- **Sovereign wealth funds and national economic development: A global overview of strategic investment funds** (with N. Lee, S. Iammarino and H. Arman). Planned submission to *Journal of International Business Policy* in August 2026.
-
-
-
-- **Detecting Green and Built Environment using Satellite Data and Machine Learning** (with R. Mahabir, and F. Cheng). A study leveraging Sentinel-2 imagery and machine learning techniques. Work in progress.
-
-- **FloodTraces: Flooding and Mobility** (with E. Pietrostefani and F. Rowe). A study on the short-term adaptation to flooding using mobile phone data. Work in progress.
+2. **[Trade Ties and Economic Divides: Trade and Income Inequality in the Regions of Europe](https://doi.org/10.1111/grow.1270036)** (with A. Rodríguez-Pose)  
+   *Published in Growth and Change 56(2): e70036.*  
+   **Abstract:** This paper analyzes how trade influences intra-regional income inequality across Europe's NUTS-2 regions. Drawing on datasets capturing both inter-regional trade and local-level inequality, the authors employ an econometric framework to gauge the impact of trade on regional interpersonal inequality. Findings show that higher levels of trade are positively associated with rising inequality, but this depends significantly on the trading partners—specifically, trade within a single country, within the EU, and with non-neighboring regions correlates with rising inequality.
 
 ## Book chapters
 
-- **Innovation, Industrial Dynamics and Regional Inequalities** (with R. Boschma and S. Petralia), in *Handbook of Industrial Development*.
+- **[Innovation, Industrial Dynamics and Regional Inequalities](https://www.elgaronline.com/edcollchap/book/9781800379091/book-part-9781800379091-18.xml)** (with R. Boschma and S. Petralia)  
+  *Published in Handbook of Industrial Development (Edward Elgar Publishing).*  
+  **Abstract:** While regional policy seeks to achieve both "smart" (innovation-led) and "inclusive" (reduction of inequality) growth, there is growing concern that these two objectives may not always be compatible. This chapter explores the tension between these goals by examining how innovation and industrial dynamics influence regional disparities. It addresses the challenges of balancing high-tech, innovation-driven regional development with the need to ensure economic opportunities are spread broadly across different types of regions.
