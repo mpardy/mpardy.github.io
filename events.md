@@ -22,7 +22,7 @@ Designed for participants with varied technical backgrounds, the workshop welcom
 ---
 
 ## FloodTraces Policy Workshop and Hackathon
-*Event Organised*
+*Event Organised — London School of Economics, June 22-24*
 
 **Website:** [https://pietrostefani.github.io/floodtraces-hack/](https://pietrostefani.github.io/floodtraces-hack/)
 
