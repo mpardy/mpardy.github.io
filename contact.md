@@ -14,8 +14,8 @@ permalink: /contact/
                 <h2>Martina Pardy</h2>
                 <p class="position">Postdoctoral Researcher</p>
                 <div class="affiliations">
-                    <p><i class="fas fa-university"></i> University of Liverpool | School of Environmental Sciences</p>
-                    <p><i class="fas fa-university"></i> London School of Economics and Political Science</p>
+                    <p><i class="fas fa-university"></i> University of Liverpool | Geographic Data Science Lab</p>
+                    <p><i class="fas fa-university"></i> London School of Economics and Political Science | International Inequalities Institute</p>
                 </div>
             </div>
         </div>
