@@ -1,31 +1,38 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Training & Events",
     "section": "",
-    "text": "PhD in Economic Geography\nLondon School of Economics and Political Science (LSE), UK (Sep 2020 - Jan 2024)\n- Thesis: Essays on Regional Inequalities, Innovation and Global Connectivity - Marie Skłodowska-Curie Fellow, Policies for Smart Specialisation (2020–2023) - Charles Tiebout Prize, best PhD student paper, Western Regional Science Association (2023)\nMaster’s Degree in Economics\nVienna University of Economics and Business, Austria (2017 - 2019)\n- Passed with distinction - FIW Award: First prize for excellent dissertations (2020)\nDouble Bachelor’s Degree\nVienna University of Economics and Business, Austria (2012 - 2017)\n- BSc Economics and Social Sciences - BA Chinese and International Business Administration"
+    "text": "Here is a selection of training sessions I have held and events I have organised:"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About Me",
+    "objectID": "events.html#training",
+    "href": "events.html#training",
+    "title": "Training & Events",
+    "section": "Training",
+    "text": "Training\n\nImago Training"
+  },
+  {
+    "objectID": "events.html#events",
+    "href": "events.html#events",
+    "title": "Training & Events",
+    "section": "Events",
+    "text": "Events\n\nFloodTraces Policy Workshop\nCan We Tackle Climate Change Without Deepening Inequality? (LSE Festival)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "PhD in Economic Geography\nLondon School of Economics and Political Science (LSE), UK (Sep 2020 - Jan 2024)\n- Thesis: Essays on Regional Inequalities, Innovation and Global Connectivity - Marie Skłodowska-Curie Fellow, Policies for Smart Specialisation (2020–2023) - Charles Tiebout Prize, best PhD student paper, Western Regional Science Association (2023)\nMaster’s Degree in Economics\nVienna University of Economics and Business, Austria (2017 - 2019)\n- Passed with distinction - FIW Award: First prize for excellent dissertations (2020)\nDouble Bachelor’s Degree\nVienna University of Economics and Business, Austria (2012 - 2017)\n- BSc Economics and Social Sciences - BA Chinese and International Business Administration"
+    "text": "Martina Pardy\n\n\n\n\nWelcome to my website!\n\n\n\n\n\nWelcome to my website!\n\nI am a Postdoctoral Researcher at the Geographical Data Science Lab at the University of Liverpool and the International Inequalities Institute at the London School of Economics and Political Science (LSE). I recently completed my PhD in Economic Geography at LSE, where I examined how innovation and global connectivity shape firm performance and regional economies, with a specific focus on economic development and distributional effects.\nBroadly, my research sits at the intersection of economic inequality, regional development, climate and technological change, globalisation, and institutional design, drawing on methods from applied economics and spatial data science. As a researcher at Imago (Data Service for Imagery), I develop advanced measurement techniques by leveraging big data, machine learning, and high-resolution geospatial inputs—such as satellite imagery and mobile phone data. By mapping Climate Local Vulnerability and Exposure alongside Land Use (Green and Built Environments), these cutting-edge tools allow us to precisely assess the economic, social, and distributional consequences of environmental hazards at a highly granular, local scale. At LSE, I serve as the co-director of the Economics of Environmental Inequality research programme and as a researcher within STICERD’s Cohesive Capitalism programme.\nPrior to my current positions, I worked as a Research Associate at the University of Cambridge and as a consultant at the Asian Development Bank. I hold a Master’s in Economics from the Vienna University of Economics and Business and have been a visiting scholar at Sciences Po and Utrecht University."
   },
   {
-    "objectID": "about.html#professional-experience",
-    "href": "about.html#professional-experience",
-    "title": "About Me",
-    "section": "Professional Experience",
-    "text": "Professional Experience\nPostdoctoral Researcher, Geographical Data Science Lab\nUniversity of Liverpool, UK\n- Advancing the use of large-scale satellite data using machine learning in assessing climate-related and inequality risks. - Engaging with DEFRA and MHCLG to inform policy decision-making on flood risk and resilience.\nResearch Officer, International Inequalities Institute\nLondon School of Economics and Political Science, UK\n- Co-Director on Environmental Inequality. - Research on Comparative Political Economy, STICERD’s Cohesive Capitalism Research Programme.\nResearch Associate, Policy Evidence Unit for University Commercialisation and Innovation\nUniversity of Cambridge, UK\n- Evaluated the UK’s first-ever national spinout register using the ONS Secure Research Service.\nConsultant, Strategy, Policy and Partnerships Department\nAsian Development Bank, Austria"
-  },
-  {
-    "objectID": "about.html#grants-funding",
-    "href": "about.html#grants-funding",
-    "title": "About Me",
-    "section": "Grants & Funding",
-    "text": "Grants & Funding\n\nPolicy Support Fund (£43,962): Co-Investigator on FloodTraces Grant: Flooding and Mobility using Mobile Phone data (2025).\nLSE Global School of Sustainability Grant (£99,651): Named Researcher for the establishment of a research programme at the International Inequalities Institute (2025).\nRSA Research Network Grant (£10,000): Co-Investigator on Smart Policies for Regional Innovation, Sustainability and Transitions (2024).\nERC LSBS Small Grant (£5,000): Principal Investigator on research project on SMEs, technology adoption, and Brexit (2023)."
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Martina Pardy\n                Postdoctoral Researcher\n                \n                     University of Liverpool | School of Environmental Sciences\n                     London School of Economics and Political Science\n                \n            \n        \n\n        \n            \n                \n                m.l.pardy@lse.ac.uk\n            \n            \n                \n                m.l.pardy@liverpool.ac.uk\n            \n        \n\n        \n            \n                \n            \n            \n                \n            \n            \n                \n            \n        \n\n        \n\n        \n            Let's Chat\n            Reach out if you want to talk about research, collaborations, or invitations to speak!"
   },
   {
     "objectID": "research.html",
@@ -56,17 +63,31 @@
     "text": "Book chapters\n\nInnovation, Industrial Dynamics and Regional Inequalities (with R. Boschma and S. Petralia), in Handbook of Industrial Development."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "Martina Pardy\n                Postdoctoral Researcher\n                \n                     University of Liverpool | School of Environmental Sciences\n                     London School of Economics and Political Science\n                \n            \n        \n\n        \n            \n                \n                m.l.pardy@lse.ac.uk\n            \n            \n                \n                m.l.pardy@liverpool.ac.uk\n            \n        \n\n        \n            \n                \n            \n            \n                \n            \n            \n                \n            \n        \n\n        \n\n        \n            Let's Chat\n            Reach out if you want to talk about research, collaborations, or invitations to speak!"
+    "text": "PhD in Economic Geography\nLondon School of Economics and Political Science (LSE), UK (Sep 2020 - Jan 2024)\n- Thesis: Essays on Regional Inequalities, Innovation and Global Connectivity - Marie Skłodowska-Curie Fellow, Policies for Smart Specialisation (2020–2023) - Charles Tiebout Prize, best PhD student paper, Western Regional Science Association (2023)\nMaster’s Degree in Economics\nVienna University of Economics and Business, Austria (2017 - 2019)\n- Passed with distinction - FIW Award: First prize for excellent dissertations (2020)\nDouble Bachelor’s Degree\nVienna University of Economics and Business, Austria (2012 - 2017)\n- BSc Economics and Social Sciences - BA Chinese and International Business Administration"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
     "section": "",
-    "text": "Martina Pardy\n\n\n\n\nWelcome to my website!\n\n\n\n\n\nWelcome to my website!\n\nI am a Postdoctoral Researcher at the Geographical Data Science Lab at the University of Liverpool and the International Inequalities Institute at the London School of Economics and Political Science (LSE). I recently completed my PhD in Economic Geography at LSE, where I examined how innovation and global connectivity shape firm performance and regional economies, with a specific focus on economic development and distributional effects.\nBroadly, my research sits at the intersection of economic inequality, regional development, climate and technological change, globalisation, and institutional design, drawing on methods from applied economics and spatial data science. As a researcher at Imago (Data Service for Imagery), I develop advanced measurement techniques by leveraging big data, machine learning, and high-resolution geospatial inputs—such as satellite imagery and mobile phone data. By mapping Climate Local Vulnerability and Exposure alongside Land Use (Green and Built Environments), these cutting-edge tools allow us to precisely assess the economic, social, and distributional consequences of environmental hazards at a highly granular, local scale. At LSE, I serve as the co-director of the Economics of Environmental Inequality research programme and as a researcher within STICERD’s Cohesive Capitalism programme.\nPrior to my current positions, I worked as a Research Associate at the University of Cambridge and as a consultant at the Asian Development Bank. I hold a Master’s in Economics from the Vienna University of Economics and Business and have been a visiting scholar at Sciences Po and Utrecht University."
+    "text": "PhD in Economic Geography\nLondon School of Economics and Political Science (LSE), UK (Sep 2020 - Jan 2024)\n- Thesis: Essays on Regional Inequalities, Innovation and Global Connectivity - Marie Skłodowska-Curie Fellow, Policies for Smart Specialisation (2020–2023) - Charles Tiebout Prize, best PhD student paper, Western Regional Science Association (2023)\nMaster’s Degree in Economics\nVienna University of Economics and Business, Austria (2017 - 2019)\n- Passed with distinction - FIW Award: First prize for excellent dissertations (2020)\nDouble Bachelor’s Degree\nVienna University of Economics and Business, Austria (2012 - 2017)\n- BSc Economics and Social Sciences - BA Chinese and International Business Administration"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About Me",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nPostdoctoral Researcher, Geographical Data Science Lab\nUniversity of Liverpool, UK\n- Advancing the use of large-scale satellite data using machine learning in assessing climate-related and inequality risks. - Engaging with DEFRA and MHCLG to inform policy decision-making on flood risk and resilience.\nResearch Officer, International Inequalities Institute\nLondon School of Economics and Political Science, UK\n- Co-Director on Environmental Inequality. - Research on Comparative Political Economy, STICERD’s Cohesive Capitalism Research Programme.\nResearch Associate, Policy Evidence Unit for University Commercialisation and Innovation\nUniversity of Cambridge, UK\n- Evaluated the UK’s first-ever national spinout register using the ONS Secure Research Service.\nConsultant, Strategy, Policy and Partnerships Department\nAsian Development Bank, Austria"
+  },
+  {
+    "objectID": "about.html#grants-funding",
+    "href": "about.html#grants-funding",
+    "title": "About Me",
+    "section": "Grants & Funding",
+    "text": "Grants & Funding\n\nPolicy Support Fund (£43,962): Co-Investigator on FloodTraces Grant: Flooding and Mobility using Mobile Phone data (2025).\nLSE Global School of Sustainability Grant (£99,651): Named Researcher for the establishment of a research programme at the International Inequalities Institute (2025).\nRSA Research Network Grant (£10,000): Co-Investigator on Smart Policies for Regional Innovation, Sustainability and Transitions (2024).\nERC LSBS Small Grant (£5,000): Principal Investigator on research project on SMEs, technology adoption, and Brexit (2023)."
   }
 ]

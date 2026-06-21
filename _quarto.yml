@@ -12,6 +12,8 @@ website:
         text: About
       - href: research.md
         text: Research
+      - href: events.md
+        text: Training & Events
       - href: contact.md
         text: Contact
 
