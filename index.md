@@ -79,12 +79,12 @@ document.addEventListener('DOMContentLoaded', function() {
   <p style="text-align: center; font-size: 0.9em; margin-bottom: 0.2rem; color: #666;">University of Liverpool</p>
   <p style="text-align: center; font-size: 0.9em; color: #666;">London School of Economics</p>
   
-  <div style="text-align: center; margin-top: 1.5rem; font-size: 1.3rem;">
-      <a href="mailto:m.l.pardy@lse.ac.uk" style="color: #666; margin: 0 0.4rem;" title="Email"><i class="fas fa-envelope"></i></a>
-      <a href="https://scholar.google.com/citations?user=MAPIUJwAAAAJ&hl=en&oi=sra" style="color: #666; margin: 0 0.4rem;" target="_blank" title="Google Scholar"><i class="fab fa-google"></i></a>
-      <a href="https://www.linkedin.com/in/martina-p-86572576/" style="color: #666; margin: 0 0.4rem;" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-      <a href="https://github.com/mpardy" style="color: #666; margin: 0 0.4rem;" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-  </div>
+<div style="text-align: center; margin-top: 1.5rem; font-size: 1.3rem;">
+<a href="mailto:m.l.pardy@lse.ac.uk" style="color: #666; margin: 0 0.4rem;" title="Email"><i class="fas fa-envelope"></i></a>
+<a href="https://scholar.google.com/citations?user=MAPIUJwAAAAJ&hl=en&oi=sra" style="color: #666; margin: 0 0.4rem;" target="_blank" title="Google Scholar"><i class="fab fa-google"></i></a>
+<a href="https://www.linkedin.com/in/martina-p-86572576/" style="color: #666; margin: 0 0.4rem;" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+<a href="https://github.com/mpardy" style="color: #666; margin: 0 0.4rem;" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+</div>
 </div>
 ::::
 
