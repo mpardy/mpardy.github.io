@@ -68,9 +68,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 ```
 
-::: {.grid}
+::::: {.grid}
 
-::: {.g-col-12 .g-col-md-3}
+:::: {.g-col-12 .g-col-md-3}
 <div style="position: sticky; top: 100px; padding-right: 15px;">
   <img src="assets/images/photo_small.jpeg" style="width: 100%; max-width: 200px; border-radius: 50%; display: block; margin: 0 auto 1.5rem auto; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   <h2 style="text-align: center; font-size: 1.6rem; margin-top: 0; margin-bottom: 0.5rem;">Martina Pardy</h2>
@@ -86,9 +86,9 @@ document.addEventListener('DOMContentLoaded', function() {
       <a href="https://github.com/mpardy" style="color: #666; margin: 0 0.4rem;" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
   </div>
 </div>
-:::
+::::
 
-::: {.g-col-12 .g-col-md-9}
+:::: {.g-col-12 .g-col-md-9}
 
 <div id="home" style="margin-top: -80px; padding-top: 80px;"></div>
 <div id="about" style="margin-top: -80px; padding-top: 80px;"></div>
@@ -304,6 +304,6 @@ Drawing on experiences from across the globe, panellists will highlight practica
   <p><i class="fas fa-envelope" style="width: 25px; color: #666;"></i> <a href="mailto:m.l.pardy@liverpool.ac.uk" style="text-decoration: none; color: #2a7ae2; font-weight: 500;">m.l.pardy@liverpool.ac.uk</a></p>
 </div>
 
-:::
+::::
 
-:::
+:::::
