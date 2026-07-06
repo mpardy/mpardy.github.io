@@ -86,6 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="https://github.com/mpardy" style="color: #666; margin: 0 0.4rem;" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 </div>
 </div>
+
 ::::
 
 :::: {.g-col-12 .g-col-md-9}
