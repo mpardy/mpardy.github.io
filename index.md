@@ -1,8 +1,8 @@
 ---
 layout: page
 page-layout: full
-title: "Martina Pardy"
-permalink: /
+sidebar: false
+toc: false
 ---
 
 ```{=html}
@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # About Me
 
-I am a **Postdoctoral Researcher** at the Geographical Data Science Lab at the **University of Liverpool** and the International Inequalities Institute at the **London School of Economics and Political Science (LSE)**. I recently completed my PhD in Economic Geography at LSE, where my thesis, *"Essays on Regional Inequalities, Innovation and Global Connectivity"*, was awarded the Charles Tiebout Prize for best PhD student paper by the Western Regional Science Association. During my PhD, I also served as a Marie Skłodowska-Curie Fellow focusing on Policies for Smart Specialisation.
+Welcome to my personal website. I am a **Postdoctoral Researcher** at the Geographical Data Science Lab at the **University of Liverpool** and the International Inequalities Institute at the **London School of Economics and Political Science (LSE)**. I recently completed my PhD in Economic Geography at LSE, where my thesis, *"Essays on Regional Inequalities, Innovation and Global Connectivity"*, was awarded the Charles Tiebout Prize for best PhD student paper by the Western Regional Science Association. During my PhD, I also served as a Marie Skłodowska-Curie Fellow focusing on Policies for Smart Specialisation.
 
 Broadly, my research sits at the intersection of economic inequality, regional development, climate and technological change, globalisation, and institutional design, drawing on methods from applied economics and spatial data science. As a researcher at [Imago](https://imago.ac.uk/) (Data Service for Imagery), I develop advanced measurement techniques by leveraging big data, machine learning, and high-resolution geospatial inputs—such as satellite imagery and mobile phone data. By mapping Climate Local Vulnerability and Exposure alongside Land Use (Green and Built Environments), these cutting-edge tools allow us to precisely assess the economic, social, and distributional consequences of environmental hazards at a highly granular, local scale. At LSE, I serve as the co-director of the [Economics of Environmental Inequality](https://www.lse.ac.uk/International-Inequalities/Research/Economics-of-Environmental-Inequality) research programme and as a researcher within STICERD’s [Cohesive Capitalism](https://sticerd.lse.ac.uk/cohesive-capitalism) programme.
 
