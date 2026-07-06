@@ -103,8 +103,12 @@ Broadly, my research sits at the intersection of economic inequality, regional d
 
 Prior to my current positions, I worked as a Research Associate at the University of Cambridge and as a consultant at the Asian Development Bank. I hold a Master's in Economics from the Vienna University of Economics and Business and have been a visiting scholar at Sciences Po and Utrecht University.
 
-### Grants & Funding
+<hr class="section-divider">
 
+::: {#grants style="margin-top: -80px; padding-top: 80px;"}
+:::
+
+# Grants & Funding
 - **Policy Support Fund (£43,962)**: Co-Investigator on FloodTraces Grant: Flooding and Mobility using Mobile Phone data (2025).
 - **LSE Global School of Sustainability Grant (£99,651)**: Named Researcher for the establishment of a research programme at the International Inequalities Institute (2025).
 - **RSA Research Network Grant (£10,000)**: Co-Investigator on Smart Policies for Regional Innovation, Sustainability and Transitions (2024).
