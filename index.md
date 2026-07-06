@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 ::::: {.grid}
 
 :::: {.g-col-12 .g-col-md-3}
-<div style="position: sticky; top: 100px; padding-right: 15px;">
+::: {style="position: sticky; top: 100px; padding-right: 15px;"}
   <img src="assets/images/photo_small.jpeg" style="width: 100%; max-width: 200px; border-radius: 50%; display: block; margin: 0 auto 1.5rem auto; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   <h2 style="text-align: center; font-size: 1.6rem; margin-top: 0; margin-bottom: 0.5rem;">Martina Pardy</h2>
   <p style="text-align: center; color: #555; font-weight: 500; margin-bottom: 1rem;">Postdoctoral Researcher</p>
@@ -79,20 +79,22 @@ document.addEventListener('DOMContentLoaded', function() {
   <p style="text-align: center; font-size: 0.9em; margin-bottom: 0.2rem; color: #666;">University of Liverpool</p>
   <p style="text-align: center; font-size: 0.9em; color: #666;">London School of Economics</p>
   
-<div style="text-align: center; margin-top: 1.5rem; font-size: 1.3rem;">
+::: {style="text-align: center; margin-top: 1.5rem; font-size: 1.3rem;"}
 <a href="mailto:m.l.pardy@lse.ac.uk" style="color: #666; margin: 0 0.4rem;" title="Email"><i class="fas fa-envelope"></i></a>
 <a href="https://scholar.google.com/citations?user=MAPIUJwAAAAJ&hl=en&oi=sra" style="color: #666; margin: 0 0.4rem;" target="_blank" title="Google Scholar"><i class="fab fa-google"></i></a>
 <a href="https://www.linkedin.com/in/martina-p-86572576/" style="color: #666; margin: 0 0.4rem;" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
 <a href="https://github.com/mpardy" style="color: #666; margin: 0 0.4rem;" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-</div>
-</div>
+:::
+:::
 
 ::::
 
 :::: {.g-col-12 .g-col-md-9}
 
-<div id="home" style="margin-top: -80px; padding-top: 80px;"></div>
-<div id="about" style="margin-top: -80px; padding-top: 80px;"></div>
+::: {#home style="margin-top: -80px; padding-top: 80px;"}
+:::
+::: {#about style="margin-top: -80px; padding-top: 80px;"}
+:::
 
 # About Me
 
@@ -111,7 +113,8 @@ Prior to my current positions, I worked as a Research Associate at the Universit
 
 <hr class="section-divider">
 
-<div id="research" style="margin-top: -80px; padding-top: 80px;"></div>
+::: {#research style="margin-top: -80px; padding-top: 80px;"}
+:::
 
 # Research
 
@@ -130,6 +133,7 @@ Prior to my current positions, I worked as a Research Associate at the Universit
 This article examines the extent to which the presence of multinational enterprises (MNEs) influences the concentration of innovation among patenting firms within US states from 1976 to 2010. Merging patent and regional socioeconomic data, this study explores the effects within 50 US states over more than three decades using Ordinary-Least-Square and Instrumental Variable estimations. It shows that MNEs significantly contribute to the concentration of patenting activity, an effect predominantly driven by domestic-owned MNEs. The impact differs across space: states with a higher share of MNEs experience a sharper increase in patenting concentration. Crucially, it is the non-MNE firms that feel the squeeze the most, with those in the middle of the patenting hierarchy producing fewer patents when domestic MNEs ramp up their activity. This suggests that economic globalisation, while enhancing innovation opportunities for some, reinforces competitive pressures and barriers for others. These findings offer a new perspective on the forces shaping regional innovation dynamics, highlighting the role of MNEs in both amplifying innovation gains and exacerbating disparities in knowledge production.
 </div>
 </details>
+
 :::
 :::
 
@@ -147,6 +151,7 @@ with Andrés Rodríguez-Pose
 This paper analyses how trade influences intra-regional income inequality across Europe's NUTS-2 regions. Drawing on newly compiled datasets capturing both inter-regional trade and local-level inequality for all EU member states plus the UK, we employ an econometric framework—complete with Instrumental Variable estimations and robust sensitivity analyses—to gauge the impact of trade on regional interpersonal inequality. In addition to examining aggregate trade, we distinguish between various trade channels, including exchanges within the EU versus those with the rest of the world, links to neighbouring regions versus non-neighbours and domestic versus international flows. Our findings reveal that higher levels of trade are positively associated with changes in regional income inequality, as measured by the Gini coefficient. Crucially, this link depends on trading partners: trade within a single country, within the EU and with non-neighbouring regions correlates with rising inequality, whereas international trade, trade with non-EU partners or trade with neighbouring regions shows no statistically significant effect. These conclusions withstand a battery of robustness checks, including new control variables and a population-weighted approach, further underscoring the role that particular types of trade play in shaping regional income disparities.
 </div>
 </details>
+
 :::
 :::
 
@@ -166,6 +171,7 @@ with Roman Hoffmann and Capucine Riom
 Worsening climatic conditions are a significant threat to livelihoods, health and well-being worldwide. In this paper, we estimate the impact of temperature and precipitation anomalies on inequality and poverty using a dataset combining comprehensive climatological data with subnational regional wealth and inequality measures derived from the Demographic and Health Surveys for 52 countries and 453 regions. Using the International Wealth Index as a comparative measure of material wealth, we find a significant impact of temperature anomalies on the distribution of material wealth. We estimate that an average temperature anomaly of one standard deviation in the past 4 years increases the regional Gini coefficient by 0.018 points and increases the share of extremely poor households by 4.1 percent. The impacts are stronger in rural areas. We find that temperature anomalies affect inequality through multiple channels, including agricultural employment, the deterioration of assets, decreased economic activity, higher unemployment and worsened access to healthcare. The impacts of precipitation anomalies on inequality, on the other hand, are more ambiguous.
 </div>
 </details>
+
 :::
 :::
 
@@ -183,6 +189,7 @@ with Neil Lee and Andrew McNeil
 The early 2020s saw a spike in inflation across much of the advanced world, with pervasive economic consequences. There is strong evidence that economic shocks generally have political consequences, but few studies have specifically focused on inflation. In this paper, we address this gap using an original, pre-registered survey experiment in the United Kingdom, a country which saw the highest consumer price inflation in 40 years and a major cost of living crisis. First, we describe how individuals, on average, are only neutral in their confidence in the Bank of England’s and economists’ ability to tackle inflation. The population is even more pessimistic regarding the government’s abilities. Second, using an experimental survey vignette, we causally identify the effect of reminding and/or informing participants about the high levels of inflation. While our treatment shifts inflation expectations, we find no evidence that it reduces trust in government, the bank of England, nor economists more generally. Instead, we find weak evidence that respondents blame corporations. Inflation also makes citizens less likely to support public sector pay rises although we find no effect on authoritarianism, redistribution attitudes, attitudes towards overseas trade, or optimism towards the future.
 </div>
 </details>
+
 :::
 :::
 
@@ -200,6 +207,7 @@ with David Ampudia
 This paper examines the impact of the Brexit referendum on digital technology adoption by small and medium-sized enterprises in the UK from 2013-2019. Combining existing survey measures from the Longitudinal Small Business Survey with novel data on digital technology adoption from firms’ own websites, we provide detailed and timely measurements to gain deeper insights into SMEs’ reactions to a major policy shock. Leveraging the Brexit referendum as a trade policy uncertainty shock, we employ a difference-in-differences approach to investigate the response of SMEs. We find that SMEs adjust to this shock by scaling back their adoption of e-commerce-related technologies, along with other digital technologies. These effects cut across multiple sectors, extending beyond those traditionally associated with the trade of goods to also include service sectors. Overall, these findings provide novel insights into the strategies SMEs adopt in response to significant policy-led disruptions, highlighting their decision to significantly reduce the use of digital technologies. This charge could potentially influence their long-term productivity levels, suggesting an important area for further investigation and policy focus.
 </div>
 </details>
+
 :::
 :::
 
@@ -217,6 +225,7 @@ with Neil Lee, Max Herbertson, David Soskice and Michael Storper
 Europe’s economic stagnation and declining global position stem from its failure to lead in first mover innovation, as the United States and, increasingly, China have produced the new breakthrough technologies of the latest industrial revolution. In this paper, we consider the causes of this innovation problem: interrelated issues in the structure of innovation institutions, education, geography, finance and markets, all of which have deep political roots. We build on a game theory model of strategic complementarities and mutual commitments to suggest a path forward which would allow a ‘coalition of the willing’ of advanced European states to develop US style institutions of innovation while combining them with Europe’s social model. Using this, we chart a feasible transition path for Europe which builds on strengths in incremental innovation while creating first mover capacities through integrated capital markets, venture ecosystems, and focused regional cluster development. Only by overcoming its first mover innovation gap, while not abandoning the goals of its social model, can Europe achieve growth, global relevance, and social stability in an era of intensified geopolitical and technological competition.
 </div>
 </details>
+
 :::
 :::
 
@@ -236,12 +245,14 @@ with R. Boschma and S. Petralia
 While regional policy seeks to achieve both "smart" (innovation-led) and "inclusive" (reduction of inequality) growth, there is growing concern that these two objectives may not always be compatible. This chapter explores the tension between these goals by examining how innovation and industrial dynamics influence regional disparities. It addresses the challenges of balancing high-tech, innovation-driven regional development with the need to ensure economic opportunities are spread broadly across different types of regions.
 </div>
 </details>
+
 :::
 :::
 
 <hr class="section-divider">
 
-<div id="training-events" style="margin-top: -80px; padding-top: 80px;"></div>
+::: {#training-events style="margin-top: -80px; padding-top: 80px;"}
+:::
 
 # Training & Events
 
@@ -294,16 +305,17 @@ Drawing on experiences from across the globe, panellists will highlight practica
 
 <hr class="section-divider">
 
-<div id="contact" style="margin-top: -80px; padding-top: 80px;"></div>
+::: {#contact style="margin-top: -80px; padding-top: 80px;"}
+:::
 
 # Contact
 
 <p style="font-size: 1.1rem;">Reach out if you want to talk about research, collaborations, or invitations to speak!</p>
 
-<div style="margin-top: 2rem;">
+::: {style="margin-top: 2rem;"}
   <p><i class="fas fa-envelope" style="width: 25px; color: #666;"></i> <a href="mailto:m.l.pardy@lse.ac.uk" style="text-decoration: none; color: #2a7ae2; font-weight: 500;">m.l.pardy@lse.ac.uk</a></p>
   <p><i class="fas fa-envelope" style="width: 25px; color: #666;"></i> <a href="mailto:m.l.pardy@liverpool.ac.uk" style="text-decoration: none; color: #2a7ae2; font-weight: 500;">m.l.pardy@liverpool.ac.uk</a></p>
-</div>
+:::
 
 ::::
 
