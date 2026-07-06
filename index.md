@@ -68,28 +68,27 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 ```
 
-::::: {.grid}
+:::::: {.grid}
 
-:::: {.g-col-12 .g-col-md-3}
-::: {style="position: sticky; top: 100px; padding-right: 15px;"}
-  <img src="assets/images/photo_small.jpeg" style="width: 100%; max-width: 200px; border-radius: 50%; display: block; margin: 0 auto 1.5rem auto; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <h2 style="text-align: center; font-size: 1.6rem; margin-top: 0; margin-bottom: 0.5rem;">Martina Pardy</h2>
-  <p style="text-align: center; color: #555; font-weight: 500; margin-bottom: 1rem;">Postdoctoral Researcher</p>
-  
-  <p style="text-align: center; font-size: 0.9em; margin-bottom: 0.2rem; color: #666;">University of Liverpool</p>
-  <p style="text-align: center; font-size: 0.9em; color: #666;">London School of Economics</p>
-  
-::: {style="text-align: center; margin-top: 1.5rem; font-size: 1.3rem;"}
+::::: {.g-col-12 .g-col-md-3 style="position: sticky; top: 100px; padding-right: 15px;"}
+
+<img src="assets/images/photo_small.jpeg" style="width: 100%; max-width: 200px; border-radius: 50%; display: block; margin: 0 auto 1.5rem auto; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<h2 style="text-align: center; font-size: 1.6rem; margin-top: 0; margin-bottom: 0.5rem;">Martina Pardy</h2>
+<p style="text-align: center; color: #555; font-weight: 500; margin-bottom: 1rem;">Postdoctoral Researcher</p>
+
+<p style="text-align: center; font-size: 0.9em; margin-bottom: 0.2rem; color: #666;">University of Liverpool</p>
+<p style="text-align: center; font-size: 0.9em; color: #666;">London School of Economics</p>
+
+<p style="text-align: center; margin-top: 1.5rem; font-size: 1.3rem;">
 <a href="mailto:m.l.pardy@lse.ac.uk" style="color: #666; margin: 0 0.4rem;" title="Email"><i class="fas fa-envelope"></i></a>
 <a href="https://scholar.google.com/citations?user=MAPIUJwAAAAJ&hl=en&oi=sra" style="color: #666; margin: 0 0.4rem;" target="_blank" title="Google Scholar"><i class="fab fa-google"></i></a>
 <a href="https://www.linkedin.com/in/martina-p-86572576/" style="color: #666; margin: 0 0.4rem;" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
 <a href="https://github.com/mpardy" style="color: #666; margin: 0 0.4rem;" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-:::
-:::
+</p>
 
-::::
+:::::
 
-:::: {.g-col-12 .g-col-md-9}
+::::: {.g-col-12 .g-col-md-9}
 
 ::: {#home style="margin-top: -80px; padding-top: 80px;"}
 :::
@@ -312,11 +311,11 @@ Drawing on experiences from across the globe, panellists will highlight practica
 
 <p style="font-size: 1.1rem;">Reach out if you want to talk about research, collaborations, or invitations to speak!</p>
 
-::: {style="margin-top: 2rem;"}
+<div style="margin-top: 2rem;">
   <p><i class="fas fa-envelope" style="width: 25px; color: #666;"></i> <a href="mailto:m.l.pardy@lse.ac.uk" style="text-decoration: none; color: #2a7ae2; font-weight: 500;">m.l.pardy@lse.ac.uk</a></p>
   <p><i class="fas fa-envelope" style="width: 25px; color: #666;"></i> <a href="mailto:m.l.pardy@liverpool.ac.uk" style="text-decoration: none; color: #2a7ae2; font-weight: 500;">m.l.pardy@liverpool.ac.uk</a></p>
-:::
-
-::::
+</div>
 
 :::::
+
+::::::
