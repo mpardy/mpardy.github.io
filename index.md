@@ -86,6 +86,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="https://github.com/mpardy" style="color: #666; margin: 0 0.4rem;" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 </p>
 
+<div style="font-size: 0.85rem; margin-top: 2rem; color: #444;" markdown="1">
+**Current Roles & Affiliations:**
+
+- **Postdoctoral Researcher**, Geographical Data Science Lab, University of Liverpool (UoL)
+- **Postdoctoral Researcher**, International Inequalities Institute, LSE
+- **Researcher**, **[Imago](https://imago.ac.uk/)**
+- **Affiliated Researcher**, STICERD’s **[Cohesive Capitalism](https://sticerd.lse.ac.uk/cohesive-capitalism)** & the **[HINPE](https://www.lse.ac.uk/news/latest-news-from-lse/lse-10m-huth-initiative-global-economic-thinking)**, LSE
+- **Co-Director**, **[Economics of Environmental Inequality](https://www.lse.ac.uk/International-Inequalities/Research/Economics-of-Environmental-Inequality)**, LSE
+- **Coordinator**, **[Regional Academy on the United Nations](https://www.ra-un.org/)**
+</div>
+
 </div>
 
 <div class="g-col-12 g-col-md-9" markdown="1">
@@ -97,24 +108,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # About Me
 
-Welcome to my personal website!
-
-**Current Roles & Affiliations:**
-
-- **Postdoctoral Researcher**, Geographical Data Science Lab, University of Liverpool (UoL)
-- **Postdoctoral Researcher**, International Inequalities Institute, London School of Economics and Political Science (LSE)
-- **Researcher**, **[Imago](https://imago.ac.uk/)** (Data Service for Imagery)
-- **Affiliated Researcher**, STICERD’s **[Cohesive Capitalism](https://sticerd.lse.ac.uk/cohesive-capitalism)** & the **[HINPE](https://www.lse.ac.uk/news/latest-news-from-lse/lse-10m-huth-initiative-global-economic-thinking)**, LSE
-- **Co-Director**, **[Economics of Environmental Inequality](https://www.lse.ac.uk/International-Inequalities/Research/Economics-of-Environmental-Inequality)** Research Programme, LSE
-- **Coordinator**, **[Regional Academy on the United Nations](https://www.ra-un.org/)**
+Welcome to my personal website. I am a **Postdoctoral Researcher** at the Geographical Data Science Lab at the **University of Liverpool (UoL)** and the International Inequalities Institute at the **London School of Economics and Political Science (LSE)**. At the UoL, I am a researcher at **[Imago](https://imago.ac.uk/)** (Data Service for Imagery), a joint project with Newcastle University, the University of Manchester, and Harvard University.
 
 Broadly, my research focuses on the overlap between **structural change** and **inclusive, sustainable development**. Viewing these topics through a spatial lens, my work sits at the intersection of **climate change**, **innovation and technological change**, **globalisation**, and **institutional design**—examining how these forces are linked to **local economic development** and **spatial inequality** across social, economic, and environmental dimensions. To do this, I draw on methods from **applied economics** and **spatial data science**, including **causal inference**, **big data**, and **GeoAI**.
 
-Through my work at **Imago** (a joint project with Newcastle University, the University of Manchester, and Harvard University), I apply advanced measurement techniques by leveraging **machine learning and causal inference** on **high-resolution, high-frequency digital data**—such as satellite imagery and mobile phone data. By mapping Climate Local Vulnerability and Exposure alongside Land Use (Green and Built Environments), these cutting-edge tools allow us to precisely assess the economic, social, and distributional consequences of environmental hazards at a highly granular, local scale. 
+As a researcher at **Imago**, I apply advanced measurement techniques by leveraging **machine learning and causal inference** on **high-resolution, high-frequency digital data**—such as satellite imagery and mobile phone data. By mapping Climate Local Vulnerability and Exposure alongside Land Use (Green and Built Environments), these cutting-edge tools allow us to precisely assess the economic, social, and distributional consequences of environmental hazards at a highly granular, local scale. 
 
-At **LSE**, my research within the Cohesive Capitalism programme and the Huth Initiative for a New Political Economy (HINPE) centres on comparative political economy and sustainable prosperity, with a specific focus on the political economy of innovation in Europe. 
+At **LSE**, I am an affiliated researcher within STICERD’s **[Cohesive Capitalism](https://sticerd.lse.ac.uk/cohesive-capitalism)** programme and the **[Huth Initiative for a New Political Economy (HINPE)](https://www.lse.ac.uk/news/latest-news-from-lse/lse-10m-huth-initiative-global-economic-thinking)** working on comparative political economy and sustainable prosperity, focusing on the political economy of innovation in Europe. I also serve as the co-director of the **[Economics of Environmental Inequality](https://www.lse.ac.uk/International-Inequalities/Research/Economics-of-Environmental-Inequality)** research programme at the International Inequalities Institute.
 
-I hold a **PhD in Economic Geography from LSE**, where my thesis, *"Essays on Regional Inequalities, Innovation and Global Connectivity"*, was awarded the Charles Tiebout Prize for best PhD student paper by the Western Regional Science Association. During my PhD, I also served as a Marie Skłodowska-Curie Fellow focusing on [Policies for Smart Specialisation](https://poliss.eu/). Previously, I have worked as a Research Associate at the University of Cambridge and a consultant at the Asian Development Bank. I hold a Master’s in Economics (with distinction) from the Vienna University of Economics and Business and have been a visiting scholar at Sciences Po and Utrecht University.
+I hold a **PhD in Economic Geography from LSE**, where my thesis, *"Essays on Regional Inequalities, Innovation and Global Connectivity"*, was awarded the Charles Tiebout Prize for best PhD student paper by the Western Regional Science Association. During my PhD, I also served as a Marie Skłodowska-Curie Fellow focusing on [Policies for Smart Specialisation](https://poliss.eu/). I currently serve as a coordinator of the [Regional Academy on the United Nations](https://www.ra-un.org/). Previously, I have worked as a Research Associate at the University of Cambridge and a consultant at the Asian Development Bank. I hold a Master’s in Economics (with distinction) from the Vienna University of Economics and Business and have been a visiting scholar at Sciences Po and Utrecht University.
 
 <hr class="section-divider">
 
