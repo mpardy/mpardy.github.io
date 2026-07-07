@@ -10,10 +10,10 @@ website:
         text: Home
       - href: "#about"
         text: About
-      - href: "#grants"
-        text: Grants & Funding
       - href: "#research"
         text: Research
+      - href: "#grants"
+        text: Grants & Funding
       - href: "#training-events"
         text: Training & Events
       - href: "#contact"

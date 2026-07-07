@@ -107,17 +107,6 @@ I hold a PhD in Economic Geography from LSE, where my thesis, *"Essays on Region
 
 <hr class="section-divider">
 
-::: {#grants style="margin-top: -80px; padding-top: 80px;"}
-:::
-
-# Grants & Funding
-- **Policy Support Fund (£43,962)**: Co-Investigator on FloodTraces Grant: Flooding and Mobility using Mobile Phone data (2025).
-- **LSE Global School of Sustainability Grant (£99,651)**: Named Researcher for the establishment of a research programme at the International Inequalities Institute (2025).
-- **RSA Research Network Grant (£10,000)**: Co-Investigator on Smart Policies for Regional Innovation, Sustainability and Transitions (2024).
-- **ERC LSBS Small Grant (£5,000)**: Principal Investigator on research project on SMEs, technology adoption, and Brexit (2023).
-
-<hr class="section-divider">
-
 ::: {#research style="margin-top: -80px; padding-top: 80px;"}
 :::
 
@@ -253,6 +242,17 @@ While regional policy seeks to achieve both "smart" (innovation-led) and "inclus
 
 :::
 :::
+
+<hr class="section-divider">
+
+::: {#grants style="margin-top: -80px; padding-top: 80px;"}
+:::
+
+# Grants & Funding
+- **Policy Support Fund (£43,962)**: Co-Investigator on FloodTraces Grant: Flooding and Mobility using Mobile Phone data (2025).
+- **LSE Global School of Sustainability Grant (£99,651)**: Named Researcher for the establishment of a research programme at the International Inequalities Institute (2025).
+- **RSA Research Network Grant (£10,000)**: Co-Investigator on Smart Policies for Regional Innovation, Sustainability and Transitions (2024).
+- **ERC LSBS Small Grant (£5,000)**: Principal Investigator on research project on SMEs, technology adoption, and Brexit (2023).
 
 <hr class="section-divider">
 
